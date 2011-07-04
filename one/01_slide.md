@@ -333,4 +333,4 @@
 
 # [http://compass-style.org/](http://compass-style.org/)
 
-# [http://sass-lang.org/](http://sass-lang.org/)
+# [http://sass-lang.com/](http://sass-lang.com/)
